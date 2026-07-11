@@ -25,7 +25,7 @@ Location: Virtual Zoom Meeting NY USA
 
 Groups: Information Architecture Community Group (IACG)
 
-##Agena
+## Agenda
 
 12 -1 pm EST **Keynote: Designing Technology for an Aging Population**
 
