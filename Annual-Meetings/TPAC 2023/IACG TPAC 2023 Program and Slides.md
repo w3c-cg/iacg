@@ -1,7 +1,7 @@
-Date: 12 September 2023, 14:30–18:30 Central European Summer Time. 
-Local: 12 September 2023, 08:30 – 12:30 Eastern Daylight Time. 
-Status: Confirmed. 
-Location: Virtual Meeting on Zoom. 
+Date: 12 September 2023, 14:30–18:30 Central European Summer Time.  
+Local: 12 September 2023, 08:30 – 12:30 Eastern Daylight Time.  
+Status: Confirmed.  
+Location: Virtual Meeting on Zoom.  
 Groups: Information Architecture Community Group ( View calendar)
 
 Big meeting: TPAC 2023 (Calendar)
