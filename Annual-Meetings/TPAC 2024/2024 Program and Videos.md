@@ -1,5 +1,6 @@
 
-# Information Architecture Community Group (IACG) Annual Meeting & After TPAC 24 Recap=
+# Information Architecture Community Group (IACG)
+## Annual Meeting & After TPAC 24 Recap
 
 Date: 28 September 2024, 16:00–18:30 UTC
 Local: 28 September 2024, 12:00 – 14:30 Eastern Daylight Time
