@@ -1,15 +1,15 @@
 
-# Information Architecture CG
+# Information Architecture Community Group (IACG) Annual Meeting & After TPAC 24 Recap=
+
 Date: 28 September 2024, 16:00–18:30 UTC
 Local: 28 September 2024, 12:00 – 14:30 Eastern Daylight Time
 Status: Confirmed
 
-=Information Architecture Community Group (IACG) Annual Meeting & After TPAC 24 Recap=
-
 The Information Architecture Community Group (IACG) continues to explore the intersection of Information Architecture (IA) and Standards in our virtual Zoom meeting. Please join us to continue our ongoing discussion, exploration, and discovery of IA & Standards.
 
-Program:
-Welcome and General IACG meeting
+## Program
+
+**Welcome and General IACG meeting**
 
 Information Architecture Community Group (IACG)
 
@@ -25,10 +25,9 @@ Location: Virtual Zoom Meeting NY USA
 
 Groups: Information Architecture Community Group (IACG)
 
-Agenda §anchor
- View agenda
+##Agena
 
-12 -1 pm EST Keynote: Designing Technology for an Aging Population
+12 -1 pm EST **Keynote: Designing Technology for an Aging Population**
 
 Dr. Jeff Johnson
 If a website or app’s target audience includes older adults, certain aspects of its design become more important. This talk describes age-related factors that affect ability to use websites and apps, and presents design guidelines that reflect the capabilities, usage patterns, and preferences of older users. 
@@ -44,9 +43,9 @@ Also: Q/A engineers, usability testers, and managers.
 
 Video: https://youtu.be/Vbz4tBQOBps?si=s1JoI0lQeXaCvDnt
 
-Break
+**Break**
 
-1:15 - 2:15 pm EST Designing Products with Information Architecture in Mind: Prioritizing Accessibility and Standards
+1:15 - 2:15 pm EST **Designing Products with Information Architecture in Mind: Prioritizing Accessibility and Standards**
 
 Dr. Rupananda Misra, Rutgers, The State University of New Jersey 
 Information Architecture plays a critical role in the design of any product, shaping how users navigate and experience it. With nearly 27.2% of people in the U.S. living with some form of disability, including 17.2% with severe disabilities (Census 2014), the need for inclusive design has never been greater. This talk explores how Information Architects can create accessible and empowering products, ensuring that users of all abilities have a positive and seamless experience. By focusing on accessibility and adhering to design standards, we can transform how people with disabilities engage with technology.
@@ -56,8 +55,9 @@ Also: Usability, accessibility, and UX professionals of all levels.
 
 Video: https://youtu.be/0GwmrUthP50?si=Jx_Y9OnUICi-KJFq
 
-Break
-2:30 - 3:30 pm EST Architecting Standards: Leveraging Information Architecture to Drive Emerging Techn Standards
+**Break**
+
+2:30 - 3:30 pm EST **Architecting Standards: Leveraging Information Architecture to Drive Emerging Techn Standards**
 
 Noreen Whysel, City University of New York (CUNY)
 In this talk, Noreen will show how standards bodies can learn from the IA field to improve accessibility and usability. By adopting user-centered design principles and engaging in iterative feedback loops, standards organizations can create more relevant and practical standards that align with real-world applications. Emphasizing collaboration with industry experts and end-users will help ensure that standards evolve along with technological advancements.
@@ -73,8 +73,9 @@ Video: https://youtu.be/mNgKdKrLyoo?si=c7biDlq-LquQ66r_
 
 3:30 - 4:00 pm EST Concluding Discussions
 
-Speakers
-Jeff Johnson
+## Speakers Bios
+
+### Jeff Johnson
 
 Jeff Johnson, Ph.D. is an Adjunct Professor of Computer Science at USF-CA.  After earning B.A. and Ph.D. degrees from Yale and Stanford Universities, he worked as a UI designer, implementer, manager, usability tester, and researcher at Cromemco, Xerox, US West, Hewlett-Packard, and Sun.  He has taught at Stanford, Mills, the University of Canterbury (NZ), and USF-CA.
 
@@ -84,7 +85,7 @@ He has authored articles on a variety of topics in Human-Computer Interaction, a
 
 LinkedIn: https://www.linkedin.com/in/jeff-johnson-aa63b/
 
-Noreen Whysel
+### Noreen Whysel
 
 Noreen is a Brooklyn-based teacher and researcher with over 25 years of experience in the fields of IA and standards development. She teaches UX design at CUNY City Tech’s BFA program.
 
@@ -96,7 +97,7 @@ Noreen is a co-founder and Information Director at Information Architecture Gate
 
 LinkedIn: https://www.linkedin.com/in/nwhysel/
 
-Rupananda Misra
+### Rupananda Misra
 
 Rupananda Misra, Ed.D., is a faculty member and director of MBS’s User Experience Design (UXD) concentration. A skilled educator with special expertise in health informatics and educational technology, Dr. Misra shapes curriculum and advises students within in MBS’s Computer & Information Sciences track, particularly within User Experience Design, Information Technology, and Social Media & Networking concentrations.
 
@@ -106,13 +107,13 @@ Dr. Misra is the author of Digital Games for Minority Student Engagement (IGI Gl
 
 LinkedIn: https://www.linkedin.com/in/rupamisra/
 
-Special Thanks
-Moderators, Facilitators, and Organizers:
+## Special Thanks
+### Moderators, Facilitators, and Organizers:
 
 • Bev Corwin, Information Architect and Technology Director, Information Architecture Gateway (IAG)
 • Shari Thurow, Information Architect and Search Director, Information Architecture Gateway (IAG)
 • Chris Novell, Information Architect, Information Architecture Gateway (IAG)
 
-Student Volunteers
+### Student Volunteers
 
 • Tyler Cho
