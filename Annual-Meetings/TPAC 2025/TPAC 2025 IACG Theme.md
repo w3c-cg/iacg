@@ -15,12 +15,12 @@ Our keynote speaker and lightning talks can help us usher in an era of sustainab
 
 ### Potential Lightning Talk Topics:
 
-Architecting Flexible Taxonomies: Information structures that evolve with AI capabilities
-Schema Design for AI Interoperability: Building data architectures that transcend platforms
-Semantic Frameworks for Intent Recognition: Organizing user goals across AI interactions
-Sustainable Navigation Patterns: Information architectures that age gracefully in AI interfaces
-Cross-Platform Content Models: Architecting information that works across AI ecosystems
-Metadata Strategies for AI Longevity: Structuring data to prevent architectural obsolescence
-User Mental Models in AI Architecture: Organizing information around human understanding patterns
+* Architecting Flexible Taxonomies: Information structures that evolve with AI capabilities
+* Schema Design for AI Interoperability: Building data architectures that transcend platforms
+* Semantic Frameworks for Intent Recognition: Organizing user goals across AI interactions
+* Sustainable Navigation Patterns: Information architectures that age gracefully in AI interfaces
+* Cross-Platform Content Models: Architecting information that works across AI ecosystems
+* Metadata Strategies for AI Longevity: Structuring data to prevent architectural obsolescence
+* User Mental Models in AI Architecture: Organizing information around human understanding patterns
 
 
