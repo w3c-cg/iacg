@@ -1,6 +1,6 @@
 # Information Architecture Conferences
 
-Most of these events have proceedings or online recordings. Some are no longer operating, but links are provided to available content.
+Most of these events have proceedings or online recordings. Some are no longer operating, but links are provided to archived content, where available 
 
 ## Active Events
 
